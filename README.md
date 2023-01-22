@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ambarapurenuka
+- 👋 Hi, I’m @Ambarapu Renuka
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning MSc in Data science and its applications
 - 💞️ I’m looking to collaborate on (https://www.linkedin.com/in/renuka-ambarapu-datascientist/)
